@@ -1,1 +1,0 @@
-const fetchWeatherInformation = await fetch()
